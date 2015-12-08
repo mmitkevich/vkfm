@@ -5,6 +5,27 @@ simple vkontakte/lastfm api mix
 
 See test_vkfm.py for usage details.
 
+Installation
+=============================
+0. 
+
+``` 
+$ git clone https://github.com/mmitkevich/vkfm.git
+```
+
+1. Install dependencies
+
+```
+$ pip install xmltodict
+$ pip install requests
+```
+
+2. run tests using python3
+
+```
+$ python test_vkfm.py
+```
+
 Get last scrobbled tracks:
 ---------
 
